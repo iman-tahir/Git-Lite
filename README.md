@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔰 Git-Lite
+# 🔰 Secure Git-Lite
 
 ### A Lightweight Version Control System Built from Scratch
 
